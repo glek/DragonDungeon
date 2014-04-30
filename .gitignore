@@ -1,3 +1,11 @@
+# Netbeans #
+
+build.xml
+nbproject/
+dist/
+build/
+manifest.mf
+
 *.class
 
 # Mobile Tools for Java (J2ME)
